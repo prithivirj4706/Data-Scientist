@@ -1,6 +1,24 @@
 [submodule "Random_Forest_Classifier"]
 	path = Random_Forest_Classifier
 	url = https://github.com/prithivirj4706/Random-Forest-Classifier.git
-[submodule "svm_digits_app"]
-	path = svm_digits_app
-	url = https://github.com/prithivirj4706/SVM-Digits-App.git
+[submodule "CoffeeShop_Prediction"]
+	path = CoffeeShop_Prediction
+	url = https://github.com/prithivirj4706/CoffeeShop_Prediction.git
+[submodule "Framingham_Heart_Disease_Predictor"]
+	path = Framingham_Heart_Disease_Predictor
+	url = https://github.com/prithivirj4706/Framingham_Heart_Disease_Predictor.git
+[submodule "diabetes_gradient_boosting_streamlit"]
+	path = diabetes_gradient_boosting_streamlit
+	url = https://github.com/prithivirj4706/diabetes_gradient_boosting_streamlit.git
+[submodule "Spam_Mail_Detector"]
+	path = Spam_Mail_Detector
+	url = https://github.com/prithivirj4706/Spam_Mail_Detector.git
+[submodule "Mushroom_Classifier"]
+	path = Mushroom_Classifier
+	url = https://github.com/prithivirj4706/Mushroom_Classifier.git
+[submodule "Mall_Customer_Segmentation"]
+	path = Mall_Customer_Segmentation
+	url = https://github.com/prithivirj4706/Mall_Customer_Segmentation.git
+[submodule "DBSCAN_Wine"]
+	path = DBSCAN_Wine
+	url = https://github.com/prithivirj4706/DBSCAN_Wine.git
