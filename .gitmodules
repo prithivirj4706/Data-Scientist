@@ -1,0 +1,6 @@
+[submodule "Random_Forest_Classifier"]
+	path = Random_Forest_Classifier
+	url = https://github.com/prithivirj4706/Random-Forest-Classifier.git
+[submodule "svm_digits_app"]
+	path = svm_digits_app
+	url = https://github.com/prithivirj4706/SVM-Digits-App.git
