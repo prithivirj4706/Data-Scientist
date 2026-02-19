@@ -40,7 +40,7 @@ This portfolio is organized into:
 - Deployment Ready
 
 🔗 **Project:**  
-[[CoffeeShop_Prediction](https://github.com/Beni-18/CoffeeShop_Prediction)](#)
+[[CoffeeShop_Prediction](https://github.com/prithivirj4706/CoffeeShop_Prediction)](#)
 
 ---
 
@@ -50,7 +50,7 @@ This portfolio is organized into:
 - Feature Shrinkage
 
 🔗 **Project:**  
-[[Lasso_Linear](https://github.com/Beni-18/Lasso_Linear)](#)
+[[Lasso_Linear](https://github.com/prithivirj4706/Lasso_Linear)](#)
 
 ---
 
@@ -61,7 +61,7 @@ This portfolio is organized into:
 - Deployment
 
 🔗 **Project:**  
-[[House_Price_Prediction](https://github.com/Beni-18/House_Price_Prediction)](#)
+[[House_Price_Prediction](https://github.com/prithivirj4706/House_Price_Prediction)](#)
 
 ---
 
@@ -73,7 +73,7 @@ This portfolio is organized into:
 - Precision, Recall, F1 Score
 
 🔗 **Project:**  
-[[Framingham_Heart_Disease_Predictor](https://github.com/Beni-18/Framingham_Heart_Disease-Predictor-)](#)
+[[Framingham_Heart_Disease_Predictor](https://github.com/prithivirj4706/Framingham_Heart_Disease_Predictor)](#)
 
 ---
 
@@ -83,7 +83,7 @@ This portfolio is organized into:
 - Digit Classification
 
 🔗 **Project:**  
-[[SVM_Digit_Predictor](https://github.com/Beni-18/SVM_Digit_Predictor)](#)
+[[SVM_Digit_Predictor](https://github.com/prithivirj4706/SVM_Digit_Predictor)](#)
 
 ---
 
@@ -93,8 +93,8 @@ This portfolio is organized into:
 - Advanced Evaluation
 
 🔗 **Projects:**  
-[[Diabetes-Predictor](https://github.com/Beni-18/Diabetes-Predictor)](#)  
-[[diabetes-gradient-boosting-streamlit](https://github.com/Beni-18/diabetes-gradient-boosting-streamlit)](#)
+[[Diabetes-Predictor](https://github.com/prithivirj4706/Diabetes_Predictor)](#)  
+[[diabetes-gradient-boosting-streamlit](https://github.com/prithivirj4706/diabetes_gradient_boosting_streamlit)](#)
 
 ---
 
@@ -103,7 +103,7 @@ This portfolio is organized into:
 - Spam Detection
 
 🔗 **Project:**  
-[[Spam_Mail_Detector](https://github.com/Beni-18/Spam_Maill_Detector)](#)
+[[Spam_Mail_Detector](https://github.com/prithivirj4706/Spam_Mail_Detector)](#)
 
 ---
 
@@ -112,7 +112,7 @@ This portfolio is organized into:
 - Model Interpretation
 
 🔗 **Project:**  
-[[Mushroom_Classifier](https://github.com/Beni-18/Mushroom_Classifier)](#)
+[[Mushroom_Classifier](https://github.com/prithivirj4706/Mushroom_Classifier)](#)
 
 ---
 
@@ -126,7 +126,7 @@ This portfolio is organized into:
 - Customer Segmentation
 
 🔗 **Project:**  
-[[Mall_Customer_Segmentation](https://github.com/Beni-18/Mall_Customer_Segmentation)](#)
+[[Mall_Customer_Segmentation](https://github.com/prithivirj4706/Mall_Customer_Segmentation)](#)
 
 ---
 
@@ -135,7 +135,7 @@ This portfolio is organized into:
 - Non-linear Cluster Detection
 
 🔗 **Project:**  
-[[DBSCAN_Wine](https://github.com/Beni-18/DBSCAN_Wine)](#)
+[[DBSCAN_Wine](https://github.com/prithivirj4706/DBSCAN_Wine)](#)
 
 ---
 
