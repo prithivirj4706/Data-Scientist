@@ -1,189 +1,88 @@
 # Data Science & Machine Learning Portfolio
 
-> A structured collection of Machine Learning, Data Science, and ML Engineering projects  
+> A structured collection of Machine Learning, Data Science, and ML Engineering projects
 > built using real-world datasets, production-ready pipelines, and deployment frameworks.
 
----
-
-## 📚 Repository Structure
-
-This portfolio is organized into:
-
-- 🧠 Core ML Concepts  
-- 🤖 Supervised Learning  
-- 📊 Unsupervised Learning
-- 🚀 Deployment Projects  
+This repository is the **index** for my ML work. Each project below lives in its own
+repository. Projects marked *(archived)* are finished coursework — they are read-only
+but still fully browsable and cloneable.
 
 ---
 
-# 🧠 Core Machine Learning Concepts
+## 📈 Regression
 
-- Supervised vs Unsupervised Learning
-- Overfitting vs Underfitting
-- Bias–Variance Tradeoff
-- Model Evaluation Metrics
-- Cross Validation (K-Fold)
-- Hyperparameter Tuning
-- Feature Engineering & Selection
-
----
-
-# 🤖 Supervised Learning
+| Project | Focus | Repo |
+|---|---|---|
+| Linear Regression | R², MAE, MSE, RMSE; Streamlit app | [Linear-Regression](https://github.com/prithivirj4706/Linear-Regression) *(archived)* |
+| Coffee Shop Sales | Feature engineering, model comparison | [CoffeeShop_Prediction](https://github.com/prithivirj4706/CoffeeShop_Prediction) *(archived)* |
+| Gradient Boosting Regressor | Boosted trees + Streamlit deployment | [Task-for-gradient-boosting-regressor](https://github.com/prithivirj4706/Task-for-gradient-boosting-regressor) *(archived)* |
+| Wine Quality (Cross-Validated) | K-Fold cross-validation on a regressor | [Cross-Validation-Wine-Quality-Prediction-Regressor](https://github.com/prithivirj4706/Cross-Validation-Wine-Quality-Prediction-Regressor) *(archived)* |
 
 ---
 
-## 📈 Regression Projects
+## 🏥 Classification
 
-### 🔹 Linear Regression
-- Theory + Implementation
-- R², MAE, MSE, RMSE
-- Deployment Ready
-
-🔗 **Project:**  
-[[CoffeeShop_Prediction](https://github.com/prithivirj4706/CoffeeShop_Prediction)](#)
-
----
-
-### 🔹 Lasso & Ridge Regression
-- L1 & L2 Regularization
-- Overfitting Control
-- Feature Shrinkage
-
-🔗 **Project:**  
-[[Lasso_Linear](https://github.com/prithivirj4706/Lasso_Linear)](#)
+| Project | Focus | Repo |
+|---|---|---|
+| Logistic Regression | Binary classification, confusion matrix, P/R/F1 | [Logistic-Regression](https://github.com/prithivirj4706/Logistic-Regression) *(archived)* |
+| Heart Disease Risk | Framingham dataset, logistic regression | [Framingham_Heart_Disease_Predictor](https://github.com/prithivirj4706/Framingham_Heart_Disease_Predictor) *(archived)* |
+| Digit Recognition (SVM) | Hyperplane, margin, kernel trick | [SVM-Digits-App](https://github.com/prithivirj4706/SVM-Digits-App) *(archived)* |
+| Naive Bayes | Probabilistic classification | [naive_bayes](https://github.com/prithivirj4706/naive_bayes) *(archived)* |
+| Spam Mail Detection | Naive Bayes on text features | [Spam_Mail_Detector](https://github.com/prithivirj4706/Spam_Mail_Detector) *(archived)* |
+| K-Nearest Neighbors | Distance metrics, choosing k | [KNN](https://github.com/prithivirj4706/KNN) *(archived)* |
+| Mushroom Edibility | Decision trees, Gini vs entropy | [Mushroom_Classifier](https://github.com/prithivirj4706/Mushroom_Classifier) *(archived)* |
+| Wine Quality (Random Forest) | Ensembles, feature importance, Streamlit | [Random-Forest-Classifier](https://github.com/prithivirj4706/Random-Forest-Classifier) *(archived)* |
+| Diabetes Prediction | Gradient boosting + Streamlit | [diabetes_gradient_boosting_streamlit](https://github.com/prithivirj4706/diabetes_gradient_boosting_streamlit) *(archived)* |
+| Gradient Boosting | Boosting fundamentals notebook | [gradiant-boosting](https://github.com/prithivirj4706/gradiant-boosting) *(archived)* |
+| Milk Quality (XGBoost) | XGBoost tuning and evaluation | [XGBoost-Milk-Quality-Classifier](https://github.com/prithivirj4706/XGBoost-Milk-Quality-Classifier) *(archived)* |
 
 ---
 
-### 🔹 House Price Prediction
-- Data Cleaning
-- Feature Engineering
-- Model Comparison
-- Deployment
+## 📊 Unsupervised Learning
 
-🔗 **Project:**  
-[[House_Price_Prediction](https://github.com/prithivirj4706/House_Price_Prediction)](#)
-
----
-
-## 🏥 Classification Projects
-
-### 🔹 Logistic Regression
-- Binary Classification
-- Confusion Matrix
-- Precision, Recall, F1 Score
-
-🔗 **Project:**  
-[[Framingham_Heart_Disease_Predictor](https://github.com/prithivirj4706/Framingham_Heart_Disease_Predictor)](#)
+| Project | Focus | Repo |
+|---|---|---|
+| K-Means Clustering | Elbow method, optimal cluster selection | [Kmeans](https://github.com/prithivirj4706/Kmeans) *(archived)* |
+| Customer Segmentation | K-Means on mall customer data | [Mall_Customer_Segmentation](https://github.com/prithivirj4706/Mall_Customer_Segmentation) *(archived)* |
+| DBSCAN | Core points, noise, non-linear clusters | [DBSCAN_Wine](https://github.com/prithivirj4706/DBSCAN_Wine) *(archived)* |
+| Hierarchical Clustering | Dendrograms, linkage criteria | [Hierarchical-Clustering](https://github.com/prithivirj4706/Hierarchical-Clustering) *(archived)* |
 
 ---
 
-### 🔹 Support Vector Machine (SVM)
-- Hyperplane & Margin Concept
-- Kernel Trick
-- Digit Classification
+## 🛠 ML Engineering & Optimization
 
-🔗 **Project:**  
-[[SVM_Digit_Predictor](https://github.com/prithivirj4706/SVM_Digit_Predictor)](#)
+| Topic | Repo |
+|---|---|
+| Feature selection — filter vs wrapper methods | [Feature-Selection-Filter-Wrapper](https://github.com/prithivirj4706/Feature-Selection-Filter-Wrapper) *(archived)* |
+| Cross-validation (K-Fold) | [Cross-Validation-Wine-Quality-Prediction-Regressor](https://github.com/prithivirj4706/Cross-Validation-Wine-Quality-Prediction-Regressor) *(archived)* |
 
----
-
-### 🔹 Ensemble Learning (Random Forest / Gradient Boosting)
-- Feature Importance
-- Model Comparison
-- Advanced Evaluation
-
-🔗 **Projects:**  
-[[Diabetes-Predictor](https://github.com/prithivirj4706/Diabetes_Predictor)](#)  
-[[diabetes-gradient-boosting-streamlit](https://github.com/prithivirj4706/diabetes_gradient_boosting_streamlit)](#)
+Also covered across the projects above: bias–variance tradeoff, GridSearchCV /
+RandomizedSearchCV, model serialization with Joblib, and Streamlit deployment.
 
 ---
 
-### 🔹 Naive Bayes
-- Probabilistic Classification
-- Spam Detection
+## 🧠 Core Concepts Covered
 
-🔗 **Project:**  
-[[Spam_Mail_Detector](https://github.com/prithivirj4706/Spam_Mail_Detector)](#)
-
----
-
-### 🔹 Decision Tree / Tree-Based Models
-- Gini vs Entropy
-- Model Interpretation
-
-🔗 **Project:**  
-[[Mushroom_Classifier](https://github.com/prithivirj4706/Mushroom_Classifier)](#)
+- Supervised vs unsupervised learning
+- Overfitting vs underfitting
+- Bias–variance tradeoff
+- Model evaluation metrics
+- Cross-validation (K-Fold)
+- Hyperparameter tuning
+- Feature engineering & selection
 
 ---
 
-# 📊 Unsupervised Learning
+## 🧪 Tech Stack
+
+Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-Learn · XGBoost · Streamlit · Flask · Joblib
 
 ---
 
-## 🔹 K-Means Clustering
-- Elbow Method
-- Optimal Cluster Selection
-- Customer Segmentation
+## 📌 Upcoming Additions
 
-🔗 **Project:**  
-[[Mall_Customer_Segmentation](https://github.com/prithivirj4706/Mall_Customer_Segmentation)](#)
-
----
-
-## 🔹 DBSCAN (Density-Based Clustering)
-- Core Points & Noise
-- Non-linear Cluster Detection
-
-🔗 **Project:**  
-[[DBSCAN_Wine](https://github.com/prithivirj4706/DBSCAN_Wine)](#)
-
----
-
-# 🛠 ML Engineering & Optimization
-
-- Bias–Variance Tradeoff
-- K-Fold Cross Validation
-- GridSearchCV
-- RandomizedSearchCV
-- Feature Selection (Filter, Wrapper, Embedded)
-- Model Serialization (Joblib)
-- Streamlit Deployment
-- Flask Deployment
-
----
-
-# 🧪 Tech Stack
-
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-Learn
-Streamlit
-Flask
-Joblib
-
----
-
-# 🌟 Highlights
-
-✔ Clean Project Structure  
-✔ End-to-End ML Pipelines  
-✔ Model Evaluation Included  
-✔ Deployment-Ready Applications  
-✔ Real-World Dataset Usage  
-✔ Production-Oriented Code  
-
----
-
-# 📌 Upcoming Additions
-
-- XGBoost Advanced Tuning
-- Deep Learning Projects
-- NLP Applications
-- Model Monitoring
-- Docker Deployment
-- CI/CD for ML Apps
-
----
+- Deep learning projects
+- NLP applications
+- Model monitoring
+- Docker deployment
+- CI/CD for ML apps
