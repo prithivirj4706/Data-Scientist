@@ -15,7 +15,7 @@ but still fully browsable and cloneable.
 |---|---|---|
 | Linear Regression | R², MAE, MSE, RMSE; Streamlit app | [Linear-Regression](https://github.com/prithivirj4706/Linear-Regression) *(archived)* |
 | Coffee Shop Sales | Feature engineering, model comparison | [CoffeeShop_Prediction](https://github.com/prithivirj4706/CoffeeShop_Prediction) *(archived)* |
-| Gradient Boosting Regressor | Boosted trees + Streamlit deployment | [Task-for-gradient-boosting-regressor](https://github.com/prithivirj4706/Task-for-gradient-boosting-regressor) *(archived)* |
+| Diabetes Progression | Gradient boosting regressor + Streamlit UI | [Diabetes-Progression-Predictor](https://github.com/prithivirj4706/Diabetes-Progression-Predictor) *(archived)* |
 | Wine Quality (Cross-Validated) | K-Fold cross-validation on a regressor | [Cross-Validation-Wine-Quality-Prediction-Regressor](https://github.com/prithivirj4706/Cross-Validation-Wine-Quality-Prediction-Regressor) *(archived)* |
 
 ---
